@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="selectJDBCandJSTL:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/selectJDBCandJSTL_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="selectJDBCandJSTL/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="selectJDBCandJSTL" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
